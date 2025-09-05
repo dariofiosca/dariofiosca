@@ -1,4 +1,4 @@
-# Hi, I am Dario Fiore Mosca 🖤 
+# 🌈 Hi, I am Dario Fiore Mosca 🖤 
 
 ---
 
@@ -21,13 +21,13 @@ and College de France. Before I did my PhD at the University of Vienna.
 
 ---
 
-## 📂 Publications
+## 🔬 Publications
 
 - [Scholar](https://scholar.google.de/citations?user=IZl7fS0AAAAJ&hl=en) — You can find the full list of publications here! 
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️  Tech Stack  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -45,11 +45,9 @@ and College de France. Before I did my PhD at the University of Vienna.
 
 ---
 
-## 📊 GitHub Stats  
+## 🔍 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariofiosca&show_icons=false&theme=graywhite&title_color=000000&text_color=000000)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dariofiosca&layout=compact&theme=graywhite&title_color=000000&text_color=000000)  
 
 ---
 
