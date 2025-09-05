@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariofioscaE&show_icons=false&theme=graywhite&title_color=000000&text_color=000000)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dariofiosca&show_icons=false&theme=graywhite&title_color=000000&text_color=000000)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dariofiosca&layout=compact&theme=graywhite&title_color=000000&text_color=000000)  
 
