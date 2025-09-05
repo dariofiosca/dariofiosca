@@ -1,4 +1,4 @@
-# 🌈 Hi, I am Dario Fiore Mosca 🖤 
+# 🌈 Hi, I'm Dario Fiore Mosca 🖤 
 
 ---
 
